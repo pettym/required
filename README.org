@@ -1,0 +1,16 @@
+#+STARTUP: showall
+
+* Required
+
+Personalization for Debian VMs, Workstations, etc.
+
+* Todo
+  - [ ] X11 Bell using pulseaudio
+  - [ ] Install Chrome, but set Firefox to default
+  - [ ] "core" packages
+  - [ ] "workstation" packages
+  - [ ] "bare-metal" packages
+  - [ ] Setup emacs, install lots of elpa-*
+  - [ ] Install docker
+  - [ ] Install k3s ?
+  - [ ] Bash-complete everything
